@@ -1,608 +1,608 @@
 [
     {
-        "District": "District",
-        "Municipality": "Municipality",
-        "Age": "Age",
-        "Gender": "Gender"
+        "district": "District",
+        "municipality": "Municipality",
+        "age": "Age",
+        "gender": "Gender"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "55",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "55",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "55",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "55",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "18",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "18",
+        "gender": "male"
     },
     {
-        "District": "morang",
-        "Municipality": "biratnagar",
-        "Age": "46",
-        "Gender": "female"
+        "district": "morang",
+        "municipality": "biratnagar",
+        "age": "46",
+        "gender": "female"
     },
     {
-        "District": "morang",
-        "Municipality": "biratnagar",
-        "Age": "20",
-        "Gender": "male"
+        "district": "morang",
+        "municipality": "biratnagar",
+        "age": "20",
+        "gender": "male"
     },
     {
-        "District": "morang",
-        "Municipality": "biratnagar",
-        "Age": "16",
-        "Gender": "male"
+        "district": "morang",
+        "municipality": "biratnagar",
+        "age": "16",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "64",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "64",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "64",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "64",
+        "gender": "male"
     },
     {
-        "District": "rasuwa",
-        "Municipality": "Uttarganga",
-        "Age": "50",
-        "Gender": "female"
+        "district": "rasuwa",
+        "municipality": "Uttarganga",
+        "age": "50",
+        "gender": "female"
     },
     {
-        "District": "rasuwa",
-        "Municipality": "Uttarganga",
-        "Age": "60",
-        "Gender": "female"
+        "district": "rasuwa",
+        "municipality": "Uttarganga",
+        "age": "60",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "34",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "34",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "34",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "34",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "16",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "16",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "14",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "14",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "59",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "59",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "54",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "54",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "32",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "32",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "30",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "30",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "8",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "8",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "1",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "1",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "13",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "13",
+        "gender": "female"
     },
     {
-        "District": "sindhupalchok",
-        "Municipality": "chautara",
-        "Age": "61",
-        "Gender": "male"
+        "district": "sindhupalchok",
+        "municipality": "chautara",
+        "age": "61",
+        "gender": "male"
     },
     {
-        "District": "sindhupalchok",
-        "Municipality": "chautara",
-        "Age": "56",
-        "Gender": "female"
+        "district": "sindhupalchok",
+        "municipality": "chautara",
+        "age": "56",
+        "gender": "female"
     },
     {
-        "District": "sindhupalchok",
-        "Municipality": "chautara",
-        "Age": "36",
-        "Gender": "male"
+        "district": "sindhupalchok",
+        "municipality": "chautara",
+        "age": "36",
+        "gender": "male"
     },
     {
-        "District": "sindhupalchok",
-        "Municipality": "chautara",
-        "Age": "33",
-        "Gender": "male"
+        "district": "sindhupalchok",
+        "municipality": "chautara",
+        "age": "33",
+        "gender": "male"
     },
     {
-        "District": "sindhupalchok",
-        "Municipality": "chautara",
-        "Age": "36",
-        "Gender": "female"
+        "district": "sindhupalchok",
+        "municipality": "chautara",
+        "age": "36",
+        "gender": "female"
     },
     {
-        "District": "sindhupalchok",
-        "Municipality": "chautara",
-        "Age": "33",
-        "Gender": "female"
+        "district": "sindhupalchok",
+        "municipality": "chautara",
+        "age": "33",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "70",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "70",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "2",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "2",
+        "gender": "male"
     },
     {
-        "District": "rasuwa",
-        "Municipality": "Uttarganga",
-        "Age": "31",
-        "Gender": "female"
+        "district": "rasuwa",
+        "municipality": "Uttarganga",
+        "age": "31",
+        "gender": "female"
     },
     {
-        "District": "rasuwa",
-        "Municipality": "Uttarganga",
-        "Age": "33",
-        "Gender": "male"
+        "district": "rasuwa",
+        "municipality": "Uttarganga",
+        "age": "33",
+        "gender": "male"
     },
     {
-        "District": "rasuwa",
-        "Municipality": "Uttarganga",
-        "Age": "4",
-        "Gender": "female"
+        "district": "rasuwa",
+        "municipality": "Uttarganga",
+        "age": "4",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "36",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "36",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "31",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "31",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "11",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "11",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "7",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "7",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "45",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "45",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "45",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "45",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "80",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "80",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "35",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "35",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "33",
-        "Gender": "female"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "33",
+        "gender": "female"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "65",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "65",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "60",
-        "Gender": "female"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "60",
+        "gender": "female"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "48",
-        "Gender": "female"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "48",
+        "gender": "female"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "15",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "15",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "14",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "14",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "40",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "40",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "38",
-        "Gender": "female"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "38",
+        "gender": "female"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "12",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "12",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "42",
-        "Gender": "female"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "42",
+        "gender": "female"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "45",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "45",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "20",
-        "Gender": "female"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "20",
+        "gender": "female"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "50",
-        "Gender": "female"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "50",
+        "gender": "female"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "52",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "52",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "35",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "35",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "21",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "21",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "45",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "45",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "42",
-        "Gender": "female"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "42",
+        "gender": "female"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "18",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "18",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "8",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "8",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "50",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "50",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "18",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "18",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "15",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "15",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "60",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "60",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "35",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "35",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "33",
-        "Gender": "female"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "33",
+        "gender": "female"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "55",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "55",
+        "gender": "male"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "50",
-        "Gender": "female"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "50",
+        "gender": "female"
     },
     {
-        "District": "parsa",
-        "Municipality": "birjung",
-        "Age": "35",
-        "Gender": "male"
+        "district": "parsa",
+        "municipality": "birjung",
+        "age": "35",
+        "gender": "male"
     },
     {
-        "District": "nawalparasi",
-        "Municipality": "kawasoti",
-        "Age": "38",
-        "Gender": "male"
+        "district": "nawalparasi",
+        "municipality": "kawasoti",
+        "age": "38",
+        "gender": "male"
     },
     {
-        "District": "nawalparasi",
-        "Municipality": "kawasoti",
-        "Age": "33",
-        "Gender": "female"
+        "district": "nawalparasi",
+        "municipality": "kawasoti",
+        "age": "33",
+        "gender": "female"
     },
     {
-        "District": "nawalparasi",
-        "Municipality": "kawasoti",
-        "Age": "42",
-        "Gender": "male"
+        "district": "nawalparasi",
+        "municipality": "kawasoti",
+        "age": "42",
+        "gender": "male"
     },
     {
-        "District": "nawalparasi",
-        "Municipality": "kawasoti",
-        "Age": "39",
-        "Gender": "female"
+        "district": "nawalparasi",
+        "municipality": "kawasoti",
+        "age": "39",
+        "gender": "female"
     },
     {
-        "District": "nawalparasi",
-        "Municipality": "kawasoti",
-        "Age": "17",
-        "Gender": "female"
+        "district": "nawalparasi",
+        "municipality": "kawasoti",
+        "age": "17",
+        "gender": "female"
     },
     {
-        "District": "nawalparasi",
-        "Municipality": "kawasoti",
-        "Age": "54",
-        "Gender": "female"
+        "district": "nawalparasi",
+        "municipality": "kawasoti",
+        "age": "54",
+        "gender": "female"
     },
     {
-        "District": "nawalparasi",
-        "Municipality": "kawasoti",
-        "Age": "56",
-        "Gender": "male"
+        "district": "nawalparasi",
+        "municipality": "kawasoti",
+        "age": "56",
+        "gender": "male"
     },
     {
-        "District": "rasuwa",
-        "Municipality": "Uttarganga",
-        "Age": "13",
-        "Gender": "female"
+        "district": "rasuwa",
+        "municipality": "Uttarganga",
+        "age": "13",
+        "gender": "female"
     },
     {
-        "District": "rasuwa",
-        "Municipality": "Uttarganga",
-        "Age": "50",
-        "Gender": "male"
+        "district": "rasuwa",
+        "municipality": "Uttarganga",
+        "age": "50",
+        "gender": "male"
     },
     {
-        "District": "rasuwa",
-        "Municipality": "Uttarganga",
-        "Age": "53",
-        "Gender": "male"
+        "district": "rasuwa",
+        "municipality": "Uttarganga",
+        "age": "53",
+        "gender": "male"
     },
     {
-        "District": "rasuwa",
-        "Municipality": "Uttarganga",
-        "Age": "22",
-        "Gender": "male"
+        "district": "rasuwa",
+        "municipality": "Uttarganga",
+        "age": "22",
+        "gender": "male"
     },
     {
-        "District": "rasuwa",
-        "Municipality": "Uttarganga",
-        "Age": "36",
-        "Gender": "female"
+        "district": "rasuwa",
+        "municipality": "Uttarganga",
+        "age": "36",
+        "gender": "female"
     },
     {
-        "District": "rasuwa",
-        "Municipality": "Uttarganga",
-        "Age": "14",
-        "Gender": "female"
+        "district": "rasuwa",
+        "municipality": "Uttarganga",
+        "age": "14",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "29",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "29",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "32",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "32",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "65",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "65",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "74",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "74",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "40",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "40",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "13",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "13",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "10",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "10",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "47",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "47",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "25",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "25",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "24",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "24",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "23",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "23",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "3",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "3",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "3",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "3",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "56",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "56",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "55",
-        "Gender": "female"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "55",
+        "gender": "female"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "26",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "26",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "44",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "44",
+        "gender": "male"
     },
     {
-        "District": "gorkha",
-        "Municipality": "gorkha municipality",
-        "Age": "14",
-        "Gender": "male"
+        "district": "gorkha",
+        "municipality": "gorkha municipality",
+        "age": "14",
+        "gender": "male"
     }
 ]
