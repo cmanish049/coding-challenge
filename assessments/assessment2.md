@@ -1,5 +1,5 @@
 ## Assessment 2
-1. create crud for candies (fields: id, name, image, flavor_id, status, created_at, updated_at, deleted_at)
+1. create crud for candies (fields: id, name, image, description flavor_id, status, created_at, updated_at, deleted_at)
 2. Add functionality to list, add, edit, delete the records
 3. show id, name image, flavor(name) and status in the listing page.
 4. make the pages only accessible by logged in users

@@ -14,7 +14,11 @@
 
 1. [Assessment 1](assessments/assessment1.md)
 2. [Assessment 2](assessments/assessment2.md)
+3. In home page show all flavors and candies, categorized(show flavor name and list of candies in each section) add filter functionlaity so when user selects a flovor, page shows only candies of the flavor.
 3. [Assessment 3](assessments/assessment3.md) (Optional)
 
+
 write readme files with the instructions necessary to run the code and access the solutions
+
+<font color = red size=2>Note: Please follow laravel standards while solving the assessments</font>
 
