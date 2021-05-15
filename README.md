@@ -10,16 +10,7 @@
 
 #### Problem
 
-You have a [csv data](survey.csv) from the recently conducted survey. You need to write code that reads the given csv file, processes its content and provides a summary of the data, as shown in the 'output' section below. The code should be written in any one of the following programming languages: node, python, php, golang.
-
-The filename should be: process.php, process.py, process.js or process.go depending upon the language you choose.
-
-Your code should run from the cli as shown below. If you don’t know how to use cli in one of the given languages, now is the time to learn it.
-
-In php,
-`php process.php`
-
-Running the above command should give the following tabular output in the cli:
+You have a [json data](survey.json) from the recently conducted survey. You need to write code that reads the given json file, processes its content and provides a summary of the data, as shown in the 'output' section below.
 
 |District |  Female | Male | Total |
 | --- | --- | --- | --- |
@@ -31,9 +22,5 @@ Running the above command should give the following tabular output in the cli:
 |sindhupalchok | 3 | 3 | 6 |
 |Total | 40 | 60 | 100 |
 
-
-<!--- ### Bonus points -->
-
-<!---* If you can write and include unit tests for your code. -->
 write readme files with the instructions necessary to run the code
 
