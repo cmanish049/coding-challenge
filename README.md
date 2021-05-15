@@ -15,7 +15,7 @@
 1. [Assessment 1](assessments/assessment1.md)
 2. [Assessment 2](assessments/assessment2.md)
 3. In home page show all flavors and candies, categorized(show flavor name and list of candies in each section) add filter functionlaity so when user selects a flovor, page shows only candies of the flavor.
-3. [Assessment 3](assessments/assessment3.md) (Optional)
+3. [Assessment 3](assessments/assessment3.md)
 
 
 write readme file with the instructions necessary to run the code and access the solutions
