@@ -19,15 +19,6 @@ Your code should run from the cli as shown below. If you don’t know how to use
 In php,
 `php process.php`
 
-In python,
-`python process.py`
-
-In node,
-`node process.js`
-
-In go,
-`go run process.go`
-
 Running the above command should give the following tabular output in the cli:
 
 |District |  Female | Male | Total |
@@ -41,10 +32,8 @@ Running the above command should give the following tabular output in the cli:
 |Total | 40 | 60 | 100 |
 
 
-### Bonus points
+<!--- ### Bonus points -->
 
-* If you can write and include unit tests for your code.
-* If you write readme files with the instructions necessary to run the code
-
-Note: If you are creating a separate class file, your class filename should be "dataprocessor.php", "dataprocessor.py" and so on for other languages.
+<!---* If you can write and include unit tests for your code. -->
+write readme files with the instructions necessary to run the code
 
