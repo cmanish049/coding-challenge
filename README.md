@@ -20,5 +20,5 @@
 
 write readme files with the instructions necessary to run the code and access the solutions
 
-<font color = red size=2>Note: Please follow laravel standards while solving the assessments</font>
+<span style="color:red">Note: Please follow laravel standards while solving the assessments</span>
 
