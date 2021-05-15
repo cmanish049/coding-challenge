@@ -1,7 +1,7 @@
 ## Present the surveys
 #### Problem
 
-You have a [json data](../survey.json) from the recently conducted survey. You need to write code that reads the given json file, processes its content and provides a summary of the data, as shown in the 'output' section below.
+You have a [json data](https://raw.githubusercontent.com/cmanish049/coding-challenge/main/survey.json) from the recently conducted survey. You need to write code that reads the given json file, processes its content and provides a summary of the data, as shown in the 'output' section below.
 
 |District |  Female | Male | Total |
 | --- | --- | --- | --- |
