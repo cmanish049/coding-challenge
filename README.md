@@ -18,7 +18,7 @@
 3. [Assessment 3](assessments/assessment3.md) (Optional)
 
 
-write readme files with the instructions necessary to run the code and access the solutions
+write readme file with the instructions necessary to run the code and access the solutions
 
 <span style="color:red">Note: Please follow laravel standards while solving the assessments</span>
 
